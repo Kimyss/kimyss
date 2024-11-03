@@ -1,5 +1,16 @@
 ## Hi there 👋
 
+Java💻 SpringBoot🍀 
+
+marriaDB📼
+
+React🧿
+
+HTML📃 CSS🖍 JavaScript💻
+
+
+https://velog.io/@bbq5883/posts
+
 <!--
 **Kimyss/kimyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
